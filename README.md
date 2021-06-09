@@ -1,13 +1,15 @@
 # staking-contract
 
-## Smart Contract addresses
+| Chain               | Address                   |
+| ------------------- | ------------------------- |
+| Ethereum            | [0xf9b8ef1a9845a365405930ce5e9faacb187a06da](https://etherscan.io/address/0xf9b8ef1a9845a365405930ce5e9faacb187a06da)|
+| Binance Smart Chain | [0xdAf8Ec4eE29a760861b1448a1eF114999de672fA](https://bscscan.com/address/0xdAf8Ec4eE29a760861b1448a1eF114999de672fA) |
 
-Ethereum: [0xf9b8ef1a9845a365405930ce5e9faacb187a06da](https://etherscan.io/address/0xf9b8ef1a9845a365405930ce5e9faacb187a06da)
-Binance Smart Chain: [0xdAf8Ec4eE29a760861b1448a1eF114999de672fA](https://bscscan.com/address/0xdAf8Ec4eE29a760861b1448a1eF114999de672fA)
 
-## Pools
 
-| Params                | Beginner(0)               | Soldier(1)                 | Pro(2)                     |
+## pools
+
+| Params                | Beginner(0)               | Soldier(1)                 | Pro(2)                      |
 | --------------------- | ------------------------- | -------------------------- | --------------------------- |
 | maturityAPY           | 20%                       | 35%                        | 50%                         |
 | daysToMaturity        | 60                        | 120                        | 180                         |
